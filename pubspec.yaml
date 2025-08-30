@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^9.1.1
+  flutter_dotenv: ^6.0.0
+  flutter_pluggy_connect: ^3.0.1
   shadcn_flutter: ^0.0.42
   webview_flutter: ^4.13.0
 
